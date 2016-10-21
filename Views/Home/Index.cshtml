@@ -1,0 +1,163 @@
+﻿<div class="jumbotron">
+</div>
+<div class="container-fluid">
+    <div class="row">
+        
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th style="width: 10%;">User</th>
+                            <th style="width: 55%;">Tweet</th>
+                            <th style="width: 20%;">Date</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tweets">
+                        
+                    </tbody>
+                </table>
+            </div>
+        
+    </div>
+</div>
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+            $.getJSON('/api/tweets', function (tweetsJsonPayload) {
+
+                /* Iterate through the JSON tweets object and get each tweet */
+                $(tweetsJsonPayload).each(function (i, tweet) {
+
+                    //user icon
+                    var icon = "<td><a class='iconimg'><img src='" + tweet.user.profile_image_url_https + "'</img></a></td>";
+
+					//add links to tweet, remove any image urls and add usermentions
+                    TreatTweetText(tweet);
+
+                    //set images to variable
+                    var _images = GetImagesForTweet(tweet); //_images
+
+                    //set the tweet to a variable = ?
+                    var _tweet = '<td><p class=\"tweettext\">' + tweet.text + _images + '</p></td>';
+					//tweet creation date
+                    var createdat = '<td><p class=\"tweetdate\">' + tweet.created_at + '</p></td>';
+
+                    var _ui = '<tr class=\"tweet\">' + icon + _tweet + createdat +'</tr>';
+                    $('#tweets').append(_ui);
+                });
+
+                function TreatTweetText(tweet) {
+
+					tweet.text = AddLinksToTweet(tweet);
+
+					tweet.text = AddUserMentions(tweet);
+
+					tweet.text = AddHashTags(tweet);
+
+                    tweet.text = removeimageurls(tweet);
+                }
+
+                function AddLinksToTweet(tweet) {
+                    var treatedtweetstext = tweet.text;
+
+                    //check whether there are urls in the tweet
+                    if (tweet.entities.urls[0] != undefined) {
+                        //loop through urls in the tweet
+                        $.each(tweet.entities.urls, function (index, value) {
+                            var urltoreplace = value.url;
+                            var displayurl = value.display_url;
+                            var expandedurl = value.expanded_url;
+                            var _url = '<a class=\"tweeturl\"' + ' ' + 'target=\"_blank\"' + ' ' + 'href=\"' + urltoreplace + '\"' + ' ' + 'title=\"' + expandedurl + '\">' + displayurl + '</a>';
+                            treatedtweetstext = treatedtweetstext.replace(urltoreplace, _url);
+                        });
+                    }
+
+                    return treatedtweetstext;
+                }
+
+                function AddUserMentions(tweet) {
+                    var treatedtweetstext = tweet.text;
+
+                    //check whether there are usermentions in the tweet
+                    if (tweet.entities.user_mentions[0] != undefined) {
+                        //loop through usermentions in the tweet
+                        $.each(tweet.entities.user_mentions, function (index, value) {
+                            var usermentiontoreplace = value.screen_name;
+
+                            //ignore case
+                            var usermentiontoreplaceignorecase = new RegExp("@@" + value.screen_name, "i");
+                            var linktouser = "https:\/\/twitter.com\/" + usermentiontoreplace;
+
+                            var _link = '<a href=\"' + linktouser + '\"' + ' ' + 'class=\"usermention\"' + ' ' + 'target=\"_blank\" >' + '@@' + usermentiontoreplace + "</a>";
+
+                            treatedtweetstext = treatedtweetstext.replace(usermentiontoreplaceignorecase, _link);
+                        }
+
+                        );
+                    }
+
+                    return treatedtweetstext;
+                }
+
+                function AddHashTags(tweet) {
+                    var treatedtweetstext = tweet.text;
+
+                    //check whether there are hashtags in the tweet
+                    if (tweet.entities.hashtags[0] != undefined) {
+                        //loop through urls in the tweet
+                        $.each(tweet.entities.hashtags, function (index, value) {
+                            var hashtag = "#" + value.text;
+                            //ignore case
+                            var hashtagtoreplaceignorecase = new RegExp("#" + value.text, "i");
+                            var hashtaglink = "https:\/\/twitter.com\/hashtag\/" + value.text + "?src=hash";
+                            treatedtweetstext = treatedtweetstext.replace(hashtagtoreplaceignorecase, "<span class=\"hashtag\"><a target=\"_blank\" href=\"" + hashtaglink + "\">" + hashtag + "</a></span>");
+                        }
+
+                        );
+                    }
+
+                    return treatedtweetstext;
+                }
+
+                function GetImagesForTweet(tweet) {
+                    var imagescode = "";
+
+                    if (tweet.entities.media != undefined) {
+                        //loop through images in the tweet
+                        $.each(tweet.entities.media, function (index, value) {
+                            var tweettext = tweet.text;
+                            var urltoreplace = value.url;
+                            var displayurl = value.display_url;
+                            var expandedurl = value.expanded_url;
+                            var embeddedimageurl = value.media_url_https;
+                            imagescode += '<a class=\"tweetimage\"' + ' ' + 'target=\"_blank\"' + ' ' + 'href=\"' + urltoreplace + '\"><img alt=\"' + displayurl + "\"" + ' ' + 'src=\"' + embeddedimageurl + '\"' + ' ' + '/>' + '</a>';
+                        });
+                    }
+                    return imagescode;
+                }
+
+                //remove any image urls from the text as we are displaying the images
+                function removeimageurls(tweet) {
+                    var tweetstext = tweet.text;
+
+                    if (tweet.entities.media != undefined) {
+                        //loop through images in the tweet
+                        $.each(tweet.entities.media, function (index, value) {
+
+                            var urltoreplace = value.url;
+
+                            tweetstext = tweetstext.replace(urltoreplace, "");
+                        }
+
+
+                    );
+                    }
+
+                    return tweetstext;
+                }
+            });
+
+        });
+
+    </script>
+}
