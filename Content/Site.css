@@ -1,0 +1,137 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px; 
+    background-color: #4C7DA1;
+    color: white;
+    font: 12px Arial, Helvetica, sans-serif;
+}
+
+/* Set padding to keep content from hitting the edges */
+
+.body-content {
+    padding: 15px;
+    top: 34px;
+    position: relative;
+    text-align: center;
+    width: 80%;
+}
+
+/* Navigation bar */
+
+.navbar-inverse {
+    background-color: white;
+    border-bottom: 1px solid #3b98d3;
+    height: 90px;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a  {
+    color: #9d9d9d;
+}
+
+.navbar .container {
+    padding: 1px 0;
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-header {
+    height: 100%;
+    width: 23%;
+}
+
+.navbar-brand {
+    
+    background: url('../Images/logo.jpg') no-repeat;
+    background-size: 215px 75px;
+    margin: 7px;
+    width: 100%;
+    height: 85%;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    padding: 0px;
+}
+
+.navbar-collapse {
+    float: left;
+    width: 75%;
+    padding: 17px;
+}
+
+.navbar-nav {
+    font-size: 14px;
+    width: 100%;
+}
+
+.navbar li {
+    width: 15%;
+}
+
+/* Banner */
+
+.container .jumbotron {
+    background: url('../Images/banner.png') no-repeat;
+    background-size: 100%;
+    min-height: 300px;
+    padding: 0;
+    width: 100%;
+    border-radius: 0px;
+}
+
+
+/* Table container */
+
+.container-fluid {
+    background: white;
+    color: black;
+    border: 1px solid #3b98d3;
+}
+.row {
+    width: 100%;
+    margin-left: 0px;
+}
+
+/* Table layout for twitter feed */
+
+.table-responsive {
+    border: 1px solid white;
+}
+
+.table > thead > tr > th {
+    font-size: 14px;
+    text-align:center;
+}
+
+td tr {
+    text-align:left;
+}
+
+tbody tr td:first-of-type, tbody tr td:last-of-type {
+    text-align:center
+}    
+
+/* Twitter feed */
+
+.tweet {
+    margin: 10px;
+    margin:10px 0px;
+    width: 100%;
+    text-align: left;
+}
+
+.tweetimage {
+    display:table;
+    clear:both;
+
+}
+
+.tweetimage img {
+    max-width: 300px;
+}
+
+.hashtag {
+    color: darkred;
+}
