@@ -1,0 +1,736 @@
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Json.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Json.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\student\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Json.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Json.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\New folder (7)\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\New folder (7)\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\New folder (7)\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\New folder (7)\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Owin.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Json.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\WebGrease.dll
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Json.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+H:\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\New folder (7)\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+H:\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+H:\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\New folder (7)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Owin.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Json.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\WebGrease.dll
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Json.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+H:\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Json.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Json.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\Twitter\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Owin.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebGrease.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\Twitter\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\User\Desktop\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Owin.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\WebGrease.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Json.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\System.Web.Http.Owin.xml
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Twitter24.dll.config
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Twitter24.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\bin\Twitter24.pdb
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\Twitter24.dll
+H:\DDay\New folder (2)\New folder\WebApplication1\WebApplication1\obj\Debug\Twitter24.pdb
